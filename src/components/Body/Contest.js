@@ -1,7 +1,7 @@
 import React from 'react';
 import BreadCrumb from './../Layout/BreadCrumb';
 
-import axios from 'axios';
+import axios from './../../axios_instance';
 
 class Contest extends React.Component {
 
